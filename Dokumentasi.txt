@@ -1,0 +1,19 @@
+OLEH :
+1. Anisa Islamia Putri (190102015). 
+2. Farastya N. Mirzan (190102039). 
+3. Febryanti Hayoto (190102043). 
+4. Astri Tan (190102023). 
+5. Rawin Lukaraja (190102106)
+
+akses admin
+
+localhost/carrent/admin
+username : admin
+password : admin
+
+akses penyewa
+
+email : desi@gmail.com
+password : desidesi
+
+nama database : rent
